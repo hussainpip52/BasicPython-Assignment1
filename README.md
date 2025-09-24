@@ -12,3 +12,5 @@ Task1.py :
     It's a greeting message program.
     Will ask for two inputs. First Nam & Last Name
     It will provide greeting message
+
+    Thanks 
